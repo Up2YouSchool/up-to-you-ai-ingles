@@ -62,13 +62,13 @@ const Footer = () => {
             <h3 className="font-semibold text-lg mb-4">Contato</h3>
             <ul className="space-y-2">
               <li className="text-gray-600">
-                <span className="font-medium">Email:</span> contato@uptoyou.com.br
+                <span className="font-medium">Email:</span> up2youlearning@gmail.com
               </li>
               <li className="text-gray-600">
-                <span className="font-medium">WhatsApp:</span> (00) 00000-0000
+                <span className="font-medium">WhatsApp:</span> (34) 99338-9755
               </li>
               <li className="text-gray-600">
-                <span className="font-medium">Endereço:</span> Av. Paulista, 1000 - São Paulo, SP
+                <span className="font-medium">Endereço:</span> Rua Major Gote, 808, Caiçaras - Patos de Minas - MG, 38700-207
               </li>
               <li className="text-gray-600">
                 <span className="font-medium">Horário:</span> Seg a Sex, 8h às 20h
